@@ -84,4 +84,19 @@
 		}, false);
 	}
 	
+	var coll = document.getElementsByClassName("question-text");
+
+	for(var i = 0; i < coll.length; i++){
+		coll[i].addEventListener("click", function(){
+			var answer = this.nextElementSibling;
+			if(answer.style.display === "block"){
+				answer.style.display = "none";
+				this.classList.remove("open");
+			}else{
+				answer.style.display = "block";
+				this.classList.add("open");
+			}
+		});
+	}
+	
 }());
