@@ -395,7 +395,7 @@ article{
  
  
 /*
- * Biography
+ * Biography by Amanda Mxi
  */
  
  .headmaster-section{
@@ -448,7 +448,7 @@ article{
  */
  
 /*
- * Staff 
+ * Staff by Vuyiswa Mnyamane
  */
 
 .school-name{
@@ -1068,7 +1068,7 @@ background:linear-gradient(90deg, rgba(13,0,36,1) 0%, rgba(134,9,158,1) 0%, rgba
  */
  
 /*
- * Events
+ * Events by Sinazo Ngcanga
  */
 .gallery-container{
     position: relative;
@@ -1119,7 +1119,7 @@ figcaption{
  */
  
  /*
-  * FAQ
+  * FAQ by Sakhile Mpungose
   */
 .faq-section{
 	display: flex;
@@ -1190,7 +1190,7 @@ figcaption{
   */
   
 /*
- * Footer
+ * Footer by Sakhile Mpungose, and Oarabile Mokgalagadi
  */
  
  .footer{
@@ -1244,7 +1244,7 @@ figcaption{
 		display: block !important;
 	}
 	/*
-	 * Desktop Navbar
+	 * Desktop Navbar by Sakhile Mpungose
 	 */
 	header.navbar{
 		flex-direction: row;
@@ -1315,7 +1315,7 @@ figcaption{
 	 */
 	 
 	/*
-	 * Desktop Biography
+	 * Desktop Biography by Amanda Mxi
 	 */
 	 .headmaster-section{
 		 display: flex;
@@ -1371,7 +1371,7 @@ figcaption{
 	 */
 	 
 /*
- * Desktop Footer
+ * Desktop Footer by Sakhile Mpungose, and Oarabile Mokgalagadi
  */
  	.footer{
 		position: relative;
